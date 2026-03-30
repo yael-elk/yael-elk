@@ -12,7 +12,7 @@
 
 ## 🧑‍💻 À propos de moi
 
-- 🔭 Je travaille actuellement sur des projets full-stack avec **Laravel** et **Node.js**
+- 🔭 Je travaille actuellement sur des projets full-stack avec **Laravel** et **React**
 - 🌱 J'approfondis mes connaissances en **Node.js** et **C# / .NET**
 - 💼 Ouvert aux opportunités de **stage / alternance / premier emploi**
 - 📫 Me contacter : **[yaelkaroui@yahoo.fr](mailto:yaelkaroui@yahoo.fr)**
