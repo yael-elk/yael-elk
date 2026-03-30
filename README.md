@@ -42,19 +42,6 @@
 
 ---
 
-## 📊 Statistiques GitHub
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=yael-elk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=fr" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yael-elk&layout=compact&theme=tokyonight&hide_border=true&locale=fr" />
-
-<img src="https://streak-stats.demolab.com?user=yael-elk&theme=tokyonight&hide_border=true&locale=fr" />
-
-</div>
-
----
-
 ## 🚀 Projets mis en avant
 
 > 📌 *Ces projets sont épinglés sur mon profil*
