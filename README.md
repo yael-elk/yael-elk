@@ -1,7 +1,5 @@
 <div align="center">
 
-<!-- Remplace "yael" par ton vrai username GitHub dans TOUTES les URLs -->
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE7F7,100:7C3AED&height=200&section=header&text=Salut,%20moi%20c'est%20Yael%20👋&fontSize=45&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 ### Développeur Full-Stack · C# · React · Node.js
@@ -48,10 +46,10 @@
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=yael&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=fr" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yael&layout=compact&theme=tokyonight&hide_border=true&locale=fr" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=yael-elk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=fr" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yael-elk&layout=compact&theme=tokyonight&hide_border=true&locale=fr" />
 
-<img src="https://streak-stats.demolab.com?user=yael&theme=tokyonight&hide_border=true&locale=fr" />
+<img src="https://streak-stats.demolab.com?user=yael-elk&theme=tokyonight&hide_border=true&locale=fr" />
 
 </div>
 
@@ -61,17 +59,16 @@
 
 > 📌 *Ces projets sont épinglés sur mon profil*
 
-| Projet |
-|--------|-------|-------------|
-| **[🔗 SmartHome](https://github.com/Riantsoa11/SmartHome.git)** | 
-| **[🔗 Solary](https://github.com/Nepte/SOLARY.git)** |
+- **[🔗 SmartHome](https://github.com/Riantsoa11/SmartHome)**
+- **[🔗 Solary](https://github.com/Nepte/SOLARY)**
+
 ---
 
 ## 📫 Me retrouver
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/yael-el-karoui-177776307)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yael-el-karoui-177776307)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yaelkaroui@yahoo.fr)
 
 </div>
